@@ -12,3 +12,9 @@ pipenv install
 ```shell
 pipenv run make test
 ```
+
+## Coverage
+
+```shell
+pipenv run make coverage
+```

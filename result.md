@@ -1,5 +1,5 @@
 ```shell
-$ make coverage
+$ pipenv run make coverage
 'python3' -m pytest --cov=lib --cov-config=setup.cfg tests
 ========================================================================= test session starts ==========================================================================
 platform darwin -- Python 3.8.2, pytest-6.2.2, py-1.10.0, pluggy-0.13.1 -- /Users/nvzhiga/.local/share/virtualenvs/avito-hw-3-tests-8eV7mvol/bin/python3
